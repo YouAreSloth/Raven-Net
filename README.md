@@ -8,7 +8,7 @@
 
 ># Todo:
 >- [x] Setup Workspace
->- [ ] C2
+>- [X] C2
 >- [ ] Agent
 >- [ ] Methods
 >- [ ] Cleanup
@@ -16,13 +16,13 @@
 >## C2
 >>- [X] Shell
 >>- [X] Auth
->>- [ ] CUI
->>- [ ] Connection to agent
->>- [ ] Encypted Traffic => C2
+>>- [X] CUI
+>>- [X] Connection to agent
+>>- [X] Command System
+>>- [X] DB Stuff
 >## Agent
 >>- [ ] Connection to C2
 >>- [ ] Remote Execute Method
->>- [ ] Encypted Traffic => Agent
 >## Methods
 >>- [ ] Add HTTP Method
 >>- [ ] Add Minecraft Method
