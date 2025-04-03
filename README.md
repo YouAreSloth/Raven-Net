@@ -1,6 +1,3 @@
-<p align="center">
-<img src=".assets/ServerRaven.png" width="80%"/>
-</p>
 <h1 align="center">Raven Net</h1>
 
 <div align="center">
