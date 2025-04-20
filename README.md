@@ -19,7 +19,7 @@
 >>- [X] CUI
 >>- [X] Connection to agent
 >>- [X] Command System
->>- [X] DB Stuff
+>>- [X] DB Stuff <-- switch out the Encryption
 >## Agent
 >>- [ ] Connection to C2
 >>- [ ] Remote Execute Method
