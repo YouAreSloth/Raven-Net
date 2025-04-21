@@ -1,9 +1,5 @@
 <h1 align="center">Raven Net</h1>
 
-<div align="center">
-  <a href="https://discord.gg/kja3YYV7R9"><img src="https://invidget.switchblade.xyz/kja3YYV7R9"></a>
-</div>
-
 ---
 
 ># Todo:
